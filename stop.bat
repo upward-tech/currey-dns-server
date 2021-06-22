@@ -1,1 +1,3 @@
 curreydns stop
+
+pause
