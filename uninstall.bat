@@ -1,0 +1,2 @@
+curreydns stop
+curreydns uninstall

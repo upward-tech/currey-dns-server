@@ -1,0 +1,11 @@
+oxpc.curreyco.com {
+    file oxpc.curreyco.com
+    log
+}
+
+. {
+    forward . 8.8.8.8
+    log
+    errors
+    cache
+}
